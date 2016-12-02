@@ -1,0 +1,22 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "storageAccountName": {
+      "value": "aydeystorage12345"
+    },
+    "adminUsername": {
+      "value": "aydey"
+    },
+    "adminPassword": {
+      "value": "Password~1234"
+    },
+    "dnsNameforLBIP": {
+<<<<<<< HEAD:subFolder/azuredeploylb.parameters.json
+      "value": "aydey-dns123456"
+=======
+      "value": "aydey-dns1234desattir"
+>>>>>>> a4f2dad8e0ea8eb66f7ce2260104136656f75773:azuredeploylb.parameters.json
+    }
+  }
+}
