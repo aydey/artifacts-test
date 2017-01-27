@@ -12,11 +12,7 @@
       "value": "Password~1234"
     },
     "dnsNameforLBIP": {
-<<<<<<< HEAD:subFolder/azuredeploylb.parameters.json
       "value": "aydey-dns123456"
-=======
-      "value": "aydey-dns1234desattir"
->>>>>>> a4f2dad8e0ea8eb66f7ce2260104136656f75773:azuredeploylb.parameters.json
     }
   }
 }
